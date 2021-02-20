@@ -1,5 +1,5 @@
 ## Welcome to HYBUILD GitHub Pages
-### Designed and maintained by Alerox, 2021
+### Designed and developed by Alerox, 2021
 
 You can use the [editor on GitHub](https://github.com/hybuild-project/demo-sites/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
