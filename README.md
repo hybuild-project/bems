@@ -1,4 +1,4 @@
-![Image](http://www.hybuild.eu/wp-content/uploads/2017/12/Logo-2-full-04-768x274.png)
+![Image](hhybuild-logo.png)
 
 AGLANTZIA | ALMATRET | LANGENWANG
 --------- | -------- | ----------
