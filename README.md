@@ -1,5 +1,3 @@
-## Welcome to HYBUILD GitHub Pages
-
 ### Designed and developed by Alerox, 2021
 
 AGLANTZIA | ALMATRET | LANGENWANG
