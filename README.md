@@ -5,9 +5,7 @@ You can use the [editor on GitHub](https://github.com/hybuild-project/bems/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Top Switch Series
-
-#### AGLATZIA
+### Aglantzia (AGL demo site)
 
 [Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf)
 [Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard)
@@ -15,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Inspect](https://hybuild-project.github.io/bems/AGL/Inspect)
 [Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED)
 
-#### ALMATRET
+#### Almatret (ALM demo site)
 
 [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf)
 [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard)
@@ -23,7 +21,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Inspect](https://hybuild-project.github.io/bems/ALM/Inspect)
 [Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED)
 
-#### PINK
+#### Langenwang (PINK demo site)
 
 [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
 [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
