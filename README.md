@@ -1,8 +1,8 @@
 ## Welcome to HYBUILD GitHub Pages
 ### Designed and developed by Alerox, 2021
 
-AGL demo site | ALM demo site | PINK demo site
-------------------------- | ------------------------ | -------------
+AGLANTZIA | ALMATRET | LANGENWANG
+--------- | -------- | ----------
 [Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
 [Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
 [Grafana](https://hybuild-project.github.io/bems/AGL/Grafana) | [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana) | [Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
