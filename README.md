@@ -1,6 +1,6 @@
 ![Image](hybuild-logo.png)
 
-Aglantzia | Almatret | Pink
+AGLANTZIA | ALMATRET | PINK
 --------- | -------- | ----
 [Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
 [Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
