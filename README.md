@@ -7,11 +7,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Top Switch Series
 
+# AGLATZIA
+
+[Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf)
+[Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard)
+[Grafana](https://hybuild-project.github.io/bems/AGL/Grafana)
+[Inspect](https://hybuild-project.github.io/bems/AGL/Inspect)
+[Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED)
+
+# ALMATRET
+
 [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf)
 [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard)
 [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana)
 [Inspect](https://hybuild-project.github.io/bems/ALM/Inspect)
 [Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED)
+
+# PINK
+
+[Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
+[Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
+[Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
+[Inspect](https://hybuild-project.github.io/bems/PINK/Inspect)
+[Node-RED](https://hybuild-project.github.io/bems/PINK/Node-RED)
 
 ### Markdown
 
