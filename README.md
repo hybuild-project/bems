@@ -1,33 +1,19 @@
 ## Welcome to HYBUILD GitHub Pages
-### Aglantzia (AGL demo site)
-
-- [Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf)
-- [Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard)
-- [Grafana](https://hybuild-project.github.io/bems/AGL/Grafana)
-- [Inspect](https://hybuild-project.github.io/bems/AGL/Inspect)
-- [Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED)
-
-#### Almatret (ALM demo site)
-
-- [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf)
-- [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard)
-- [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana)
-- [Inspect](https://hybuild-project.github.io/bems/ALM/Inspect)
-- [Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED)
-
-#### Langenwang (PINK demo site)
-
-- [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
-- [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
-- [Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
-- [Inspect](https://hybuild-project.github.io/bems/PINK/Inspect)
-- [Node-RED](https://hybuild-project.github.io/bems/PINK/Node-RED)
-
 ### Designed and developed by Alerox, 2021
 
 You can use the [editor on GitHub](https://github.com/hybuild-project/bems/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Switch Series
+
+Aglantzia (AGL demo site) | Almatret (ALM demo site) | Langenwang (PINK demo site)
+------------------------- | ------------------------ | -------------
+[Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
+[Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
+[Grafana](https://hybuild-project.github.io/bems/AGL/Grafana) | [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana) | [Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
+[Inspect](https://hybuild-project.github.io/bems/AGL/Inspect) | [Inspect](https://hybuild-project.github.io/bems/ALM/Inspect) | [Inspect](https://hybuild-project.github.io/bems/PINK/Inspect)
+[Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED) | [Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED) | [Node-RED](https://hybuild-project.github.io/bems/PINK/Node-RED)
 
 ### Markdown
 
