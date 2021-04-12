@@ -1,7 +1,7 @@
 ![Image](hybuild-logo.png)
 
-AGLANTZIA | ALMATRET | LANGENWANG
---------- | -------- | ----------
+Aglantzia | Almatret | Pink
+--------- | -------- | ----
 [Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
 [Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
 [Grafana](https://hybuild-project.github.io/bems/AGL/Grafana) | [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana) | [Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
