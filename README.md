@@ -1,4 +1,4 @@
-![Image](hhybuild-logo.png)
+![Image](hybuild-logo.png)
 
 AGLANTZIA | ALMATRET | LANGENWANG
 --------- | -------- | ----------
