@@ -1,27 +1,27 @@
 ## Welcome to HYBUILD GitHub Pages
 ### Aglantzia (AGL demo site)
 
-[Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf)
-[Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard)
-[Grafana](https://hybuild-project.github.io/bems/AGL/Grafana)
-[Inspect](https://hybuild-project.github.io/bems/AGL/Inspect)
-[Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED)
+- [Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf)
+- [Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard)
+- [Grafana](https://hybuild-project.github.io/bems/AGL/Grafana)
+- [Inspect](https://hybuild-project.github.io/bems/AGL/Inspect)
+- [Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED)
 
 #### Almatret (ALM demo site)
 
-[Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf)
-[Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard)
-[Grafana](https://hybuild-project.github.io/bems/ALM/Grafana)
-[Inspect](https://hybuild-project.github.io/bems/ALM/Inspect)
-[Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED)
+- [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf)
+- [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard)
+- [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana)
+- [Inspect](https://hybuild-project.github.io/bems/ALM/Inspect)
+- [Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED)
 
 #### Langenwang (PINK demo site)
 
-[Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
-[Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
-[Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
-[Inspect](https://hybuild-project.github.io/bems/PINK/Inspect)
-[Node-RED](https://hybuild-project.github.io/bems/PINK/Node-RED)
+- [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
+- [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
+- [Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
+- [Inspect](https://hybuild-project.github.io/bems/PINK/Inspect)
+- [Node-RED](https://hybuild-project.github.io/bems/PINK/Node-RED)
 
 ### Designed and developed by Alerox, 2021
 
