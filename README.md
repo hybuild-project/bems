@@ -45,6 +45,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-### Funded by EU
+#### Funded by the EU
+##### Funded by the EU
+###### Funded by the EU
 
 ![Image](/bems/assets/img/EU-flag_yellow_low-300x201.jpg)The HYBUILD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 768824.
