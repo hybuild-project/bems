@@ -47,4 +47,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Funded by the EU
 
-![Image](/assets/img/flag_yellow_low_120x80.jpg)The HYBUILD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 768824.
+![Image](assets/img/flag_yellow_low_120x80.jpg)The HYBUILD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 768824.
