@@ -1,5 +1,6 @@
+title: BEMS
+logo: /assets/img/logo.png
+description: Building Energy Management System.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-title: HYBUILD BEMS
-description: Designed and developed by Alerox, 2021
-logo: hybuild-logo.png
-show_downloads: "true"
