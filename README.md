@@ -1,10 +1,10 @@
 AGLANTZIA | ALMATRET | PINK
 --------- | -------- | ----
-[Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf) | [Chronograf](PINK/Chronograf)
-[Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard) | [Dashboard](/PINK/Dashboard)
-[Grafana](https://hybuild-project.github.io/bems/AGL/Grafana) | [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana) | [Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
-[Inspect](https://hybuild-project.github.io/bems/AGL/Inspect) | [Inspect](https://hybuild-project.github.io/bems/ALM/Inspect) | [Inspect](https://hybuild-project.github.io/bems/PINK/Inspect)
-[Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED) | [Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED) | [Node-RED](https://hybuild-project.github.io/bems/PINK/Node-RED)
+[Chronograf](AGL/Chronograf) | [Chronograf](ALM/Chronograf) | [Chronograf](PINK/Chronograf)
+[Dashboard](AGL/Dashboard) | [Dashboard](ALM/Dashboard) | [Dashboard](PINK/Dashboard)
+[Grafana](AGL/Grafana) | [Grafana](ALM/Grafana) | [Grafana](PINK/Grafana)
+[Inspect](AGL/Inspect) | [Inspect](ALM/Inspect) | [Inspect](PINK/Inspect)
+[Node-RED](AGL/Node-RED) | [Node-RED](ALM/Node-RED) | [Node-RED](PINK/Node-RED)
 
 ## Welcome to HYBUILD BEMS GitHub Pages
 ### Designed and developed by Alerox, 2021
@@ -45,8 +45,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-#### Funded by the EU
-##### Funded by the EU
-###### Funded by the EU
-####### Funded by the EU
-![Image](/assets/img/EU-flag_yellow_low-300x201.jpg)The HYBUILD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 768824.
+### Funded by the EU
+
+![Image](/assets/img/flag_yellow_low_120x80.jpg)The HYBUILD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 768824.
