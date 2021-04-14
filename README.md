@@ -1,7 +1,7 @@
 AGLANTZIA | ALMATRET | PINK
 --------- | -------- | ----
-[Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/PINK/Chronograf)
-[Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/PINK/Dashboard)
+[Chronograf](https://hybuild-project.github.io/bems/AGL/Chronograf) | [Chronograf](https://hybuild-project.github.io/bems/ALM/Chronograf) | [Chronograf](PINK/Chronograf)
+[Dashboard](https://hybuild-project.github.io/bems/AGL/Dashboard) | [Dashboard](https://hybuild-project.github.io/bems/ALM/Dashboard) | [Dashboard](/PINK/Dashboard)
 [Grafana](https://hybuild-project.github.io/bems/AGL/Grafana) | [Grafana](https://hybuild-project.github.io/bems/ALM/Grafana) | [Grafana](https://hybuild-project.github.io/bems/PINK/Grafana)
 [Inspect](https://hybuild-project.github.io/bems/AGL/Inspect) | [Inspect](https://hybuild-project.github.io/bems/ALM/Inspect) | [Inspect](https://hybuild-project.github.io/bems/PINK/Inspect)
 [Node-RED](https://hybuild-project.github.io/bems/AGL/Node-RED) | [Node-RED](https://hybuild-project.github.io/bems/ALM/Node-RED) | [Node-RED](https://hybuild-project.github.io/bems/PINK/Node-RED)
@@ -48,5 +48,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 #### Funded by the EU
 ##### Funded by the EU
 ###### Funded by the EU
-
-![Image](/bems/assets/img/EU-flag_yellow_low-300x201.jpg)The HYBUILD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 768824.
+####### Funded by the EU
+![Image](/assets/img/EU-flag_yellow_low-300x201.jpg)The HYBUILD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 768824.
