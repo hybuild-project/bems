@@ -47,6 +47,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Alternative links
 
+![Image](hybuild-logo.png)
+
 AGLANTZIA | ALMATRET | PINK
 --------- | -------- | ----
 [Chronograf](http://hybuild-agl-chronograf.loca.lt) | [Chronograf](http://hybuild-alm-chronograf.loca.lt) | [Chronograf](http://hybuild-pink-chronograf.loca.lt)
