@@ -47,7 +47,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Alternative links
 
-![Image](hybuild-logo.png)
+![Image](assets/img/hybuild-logo.png)
 
 AGLANTZIA | ALMATRET | PINK
 --------- | -------- | ----
