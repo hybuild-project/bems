@@ -44,3 +44,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Alternative links
+
+AGLANTZIA | ALMATRET | PINK
+--------- | -------- | ----
+[Chronograf](http://hybuild-agl-chronograf.loca.lt) | [Chronograf](http://hybuild-alm-chronograf.loca.lt) | [Chronograf](http://hybuild-pink-chronograf.loca.lt)
+[Dashboard](http://hybuild-agl-bems.loca.lt/ui) | [Dashboard](http://hybuild-alm-bems.loca.lt/ui) | [Dashboard](http://hybuild-pink-bems.loca.lt/ui)
+[Grafana](http://hybuild-agl-grafana.loca.lt) | [Grafana](http://hybuild-alm-grafana.loca.lt) | [Grafana](http://hybuild-pink-grafana.loca.lt)
+[Inspect](http://hybuild-agl-inspect.loca.lt) | [Inspect](http://hybuild-alm-inspect.loca.lt) | [Inspect](http://hybuild-pink-inspect.loca.lt)
+[Node-RED](http://hybuild-agl-bems.loca.lt) | [Node-RED](http://hybuild-alm-bems.loca.lt) | [Node-RED](http://hybuild-pink-bems.loca.lt)
