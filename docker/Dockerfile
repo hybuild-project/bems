@@ -9,16 +9,23 @@ FROM nodered/node-red:latest-12
 
 # You should add extra nodes via your package.json file but you can also add them here:
 WORKDIR /usr/src/node-red
+RUN npm install https://github.com/zeldalegends/node-red-contrib-ngrok
 RUN npm install node-red-dashboard
-# RUN npm install node-red-node-mongodb
-# RUN npm install node-red-contrib-modbus
-# RUN npm install node-red-contrib-opcua
-RUN npm install node-red-contrib-influxdb
-# RUN npm install node-red-contrib-mongodb
+RUN npm install node-red-node-dropbox
+RUN npm install node-red-node-email
+RUN npm install node-red-node-mongodb
+RUN npm install node-red-node-ui-led
+RUN npm install node-red-node-ui-table
 # RUN npm install node-red-contrib-aedes
-# RUN npm install node-red-node-dropbox
-# RUN npm install node-red-node-ui-table
-# RUN npm install node-red-contrib-ui-time-scheduler
 # RUN npm install node-red-contrib-chronos
 # RUN npm install node-red-contrib-cron-plus
-# RUN npm install node-red-contrib-string
+RUN npm install node-red-contrib-fs
+RUN npm install node-red-contrib-influxdb
+RUN npm install node-red-contrib-localtunnel
+RUN npm install node-red-contrib-modbus
+# RUN npm install node-red-contrib-mongodb
+RUN npm install node-red-contrib-opcua
+RUN npm install node-red-contrib-string
+RUN npm install node-red-contrib-telegrambot
+RUN npm install node-red-contrib-telegrambot-home
+RUN npm install node-red-contrib-ui-time-scheduler
