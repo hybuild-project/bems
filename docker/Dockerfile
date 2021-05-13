@@ -14,7 +14,6 @@ RUN npm install node-red-dashboard
 RUN npm install node-red-node-dropbox
 RUN npm install node-red-node-email
 RUN npm install node-red-node-mongodb
-RUN npm install node-red-node-ui-led
 RUN npm install node-red-node-ui-table
 # RUN npm install node-red-contrib-aedes
 # RUN npm install node-red-contrib-chronos
@@ -28,4 +27,5 @@ RUN npm install node-red-contrib-opcua
 RUN npm install node-red-contrib-string
 RUN npm install node-red-contrib-telegrambot
 RUN npm install node-red-contrib-telegrambot-home
+RUN npm install node-red-contrib-ui-led
 RUN npm install node-red-contrib-ui-time-scheduler
