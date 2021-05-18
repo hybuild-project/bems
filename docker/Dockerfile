@@ -9,6 +9,7 @@ FROM nodered/node-red:latest-12
 
 # You should add extra nodes via your package.json file but you can also add them here:
 WORKDIR /usr/src/node-red
+# RUN npm install node-red-node-smooth
 RUN npm install https://github.com/zeldalegends/node-red-contrib-ngrok
 RUN npm install node-red-dashboard
 RUN npm install node-red-node-dropbox
