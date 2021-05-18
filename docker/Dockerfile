@@ -10,14 +10,5 @@ FROM nodered/node-red:latest-12
 # You should add extra nodes via your package.json file but you can also add them here:
 WORKDIR /usr/src/node-red
 # RUN npm install node-red-node-smooth
-RUN npm install https://github.com/zeldalegends/node-red-contrib-ngrok
 RUN npm install node-red-dashboard
-RUN npm install node-red-node-dropbox
-RUN npm install node-red-node-email
-RUN npm install node-red-node-mongodb
-RUN npm install node-red-node-ui-table
-# RUN npm install node-red-contrib-aedes
-# RUN npm install node-red-contrib-chronos
-# RUN npm install node-red-contrib-cron-plus
-RUN npm install node-red-contrib-fs
 RUN npm install node-red-contrib-influxdb

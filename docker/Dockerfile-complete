@@ -25,7 +25,6 @@ RUN npm install node-red-contrib-modbus
 # RUN npm install node-red-contrib-mongodb
 RUN npm install node-red-contrib-opcua
 RUN npm install node-red-contrib-string
-RUN npm install node-red-contrib-telegrambot
 RUN npm install node-red-contrib-telegrambot-home
 RUN npm install node-red-contrib-ui-led
 RUN npm install node-red-contrib-ui-time-scheduler
