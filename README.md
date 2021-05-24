@@ -51,8 +51,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 AGLANTZIA | ALMATRET | PINK
 --------- | -------- | ----
-[Chronograf](http://hybuild-agl-chronograf.loca.lt) | [Chronograf](http://hybuild-alm-chronograf.loca.lt) | [Chronograf](http://hybuild-pink-chronograf.loca.lt)
-[Dashboard](http://hybuild-agl-bems.loca.lt/ui) | [Dashboard](http://hybuild-alm-bems.loca.lt/ui) | [Dashboard](http://hybuild-pink-bems.loca.lt/ui)
-[Grafana](http://hybuild-agl-grafana.loca.lt) | [Grafana](http://hybuild-alm-grafana.loca.lt) | [Grafana](http://hybuild-pink-grafana.loca.lt)
-[Inspect](http://hybuild-agl-inspect.loca.lt) | [Inspect](http://hybuild-alm-inspect.loca.lt) | [Inspect](http://hybuild-pink-inspect.loca.lt)
-[Node-RED](http://hybuild-agl-bems.loca.lt) | [Node-RED](http://hybuild-alm-bems.loca.lt) | [Node-RED](http://hybuild-pink-bems.loca.lt)
+[Chronograf](https://hybuild-agl-chronograf.loca.lt) | [Chronograf](https://hybuild-alm-chronograf.loca.lt) | [Chronograf](https://hybuild-pink-chronograf.loca.lt)
+[Dashboard](https://hybuild-agl-bems.loca.lt/ui) | [Dashboard](https://hybuild-alm-bems.loca.lt/ui) | [Dashboard](https://hybuild-pink-bems.loca.lt/ui)
+[Grafana](https://hybuild-agl-grafana.loca.lt) | [Grafana](https://hybuild-alm-grafana.loca.lt) | [Grafana](https://hybuild-pink-grafana.loca.lt)
+[Inspect](https://hybuild-agl-inspect.loca.lt) | [Inspect](https://hybuild-alm-inspect.loca.lt) | [Inspect](https://hybuild-pink-inspect.loca.lt)
+[Node-RED](https://hybuild-agl-bems.loca.lt) | [Node-RED](https://hybuild-alm-bems.loca.lt) | [Node-RED](https://hybuild-pink-bems.loca.lt)
