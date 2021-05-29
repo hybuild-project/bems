@@ -20,6 +20,8 @@ services:
 
   mqtt:
     image: hivemq/hivemq-ce
+    ports:
+      - 1883:1883
 
   mongo:
     image: mongo
