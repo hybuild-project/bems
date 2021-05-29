@@ -1,18 +1,7 @@
 version: "3.8"
 services:
-  influxdb:
-    image: influxdb:1.8
-
-  kapacitor:
-    image: kapacitor
-
-  chronograf:
-    image: chronograf
-    ports:
-      - 8888:8888
-
   influxdb2:
-    image: influxdb:2.0
+    image: influxdb
     environment:
       DOCKER_INFLUXDB_INIT_MODE: setup
       DOCKER_INFLUXDB_INIT_USERNAME: admin
@@ -22,7 +11,7 @@ services:
       DOCKER_INFLUXDB_INIT_RETENTION: 1w
       DOCKER_INFLUXDB_INIT_ADMIN_TOKEN: my-super-secret-auth-token
     ports:
-      - 9999:8086
+      - 8086:8086
 
   grafana:
     image: grafana/grafana-enterprise
@@ -31,11 +20,6 @@ services:
 
   mqtt:
     image: hivemq/hivemq-ce
-    ports:
-      - 1880:1880
-
-  telegraf:
-    image: telegraf
 
   mongo:
     image: mongo
