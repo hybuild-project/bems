@@ -2,16 +2,13 @@ version: "3.8"
 services:
   influxdb:
     image: influxdb:1.8
-    volumes:
-    # - ./influxdb/data:/var/lib/influxdb
-      - ./influxdb/config:/etc/influxdb
     ports:
       - 8086:8086
 
   kapacitor:
     image: kapacitor
-  # ports:
-  #   - 9092:9092
+    ports:
+      - 9092:9092
 
   chronograf:
     image: chronograf
@@ -38,6 +35,8 @@ services:
 
   mqtt:
     image: hivemq/hivemq-ce
+    ports:
+      - 1880:1880
 
   telegraf:
     image: telegraf
@@ -46,6 +45,8 @@ services:
 
   mongo:
     image: mongo
+    ports:
+      - 27017:27017
 
   mongo-express:
     image: mongo-express
@@ -54,5 +55,7 @@ services:
 
   nodered:
     image: nodered/node-red
+    volumes:
+      - ./data:/data
     ports:
       - 1880:1880
