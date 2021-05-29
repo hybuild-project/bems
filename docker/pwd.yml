@@ -2,13 +2,9 @@ version: "3.8"
 services:
   influxdb:
     image: influxdb:1.8
-    ports:
-      - 8086:8086
 
   kapacitor:
     image: kapacitor
-    ports:
-      - 9092:9092
 
   chronograf:
     image: chronograf
@@ -40,8 +36,6 @@ services:
 
   telegraf:
     image: telegraf
-    volumes:
-      - ./telegraf.conf:/etc/telegraf/telegraf.conf:ro
 
   mongo:
     image: mongo
@@ -55,7 +49,5 @@ services:
 
   nodered:
     image: nodered/node-red
-    volumes:
-      - ./data:/data
     ports:
       - 1880:1880
