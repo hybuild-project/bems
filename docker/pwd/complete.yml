@@ -1,0 +1,31 @@
+version: "3.8"
+services:
+  influxdb2:
+    image: influxdb
+    ports:
+      - 8086:8086
+
+  grafana:
+    image: grafana/grafana-enterprise
+    ports:
+      - 3000:3000
+
+  mqtt:
+    image: hivemq/hivemq-ce
+    ports:
+      - 1883:1883
+
+  mongo:
+    image: mongo
+    ports:
+      - 27017:27017
+
+  mongo-express:
+    image: mongo-express
+    ports:
+      - 8081:8081
+
+  nodered:
+    image: nodered/node-red
+    ports:
+      - 1880:1880
