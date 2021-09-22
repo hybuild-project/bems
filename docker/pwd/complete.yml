@@ -9,7 +9,7 @@ services:
       DOCKER_INFLUXDB_INIT_ORG: org
       DOCKER_INFLUXDB_INIT_BUCKET: telegraf
       DOCKER_INFLUXDB_INIT_RETENTION: 1w
-      DOCKER_INFLUXDB_INIT_ADMIN_TOKEN: qwertyuiopasdfghjklzxcvbnmm1234567890
+      DOCKER_INFLUXDB_INIT_ADMIN_TOKEN: qwertyuiopasdfghjklzxcvbnm
     ports:
       - 8086:8086
 
@@ -22,11 +22,6 @@ services:
     image: hivemq/hivemq-ce
     ports:
       - 1883:1883
-
-  mosquitto:
-    image: eclipse-mosquitto
-    ports:
-      - 1884:1883
 
   mongo:
     image: mongo
