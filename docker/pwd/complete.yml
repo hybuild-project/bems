@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  influx:
+  influxdb2:
     image: influxdb
     environment:
       DOCKER_INFLUXDB_INIT_MODE: setup
@@ -14,7 +14,7 @@ services:
       - 9999:8086
 
   influxdb:
-    image: influxdb
+    image: influxdb:1.8
     ports:
       - 8086:8086
 
