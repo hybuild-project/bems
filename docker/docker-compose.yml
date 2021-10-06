@@ -60,7 +60,7 @@ services:
 
   mqtt:
   # image: hivemq/hivemq-ce
-    image: eclipse-mosquitto #:1.6.12
+    image: eclipse-mosquitto #:1.6
     container_name: mqtt
     volumes:
       - ./mosquitto.conf:/mosquitto/config/mosquitto.conf:ro
