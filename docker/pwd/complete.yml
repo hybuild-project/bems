@@ -25,7 +25,7 @@ services:
     ports:
       - 8888:8888
 
-grafana:
+  grafana:
     image: grafana/grafana-enterprise
     ports:
       - 3000:3000
