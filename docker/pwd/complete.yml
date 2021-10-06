@@ -6,7 +6,7 @@ services:
       DOCKER_INFLUXDB_INIT_MODE: setup
       DOCKER_INFLUXDB_INIT_USERNAME: admin
       DOCKER_INFLUXDB_INIT_PASSWORD: password
-      DOCKER_INFLUXDB_INIT_ORG: organization
+      DOCKER_INFLUXDB_INIT_ORG: org
       DOCKER_INFLUXDB_INIT_BUCKET: telegraf
       DOCKER_INFLUXDB_INIT_RETENTION: 1w
       DOCKER_INFLUXDB_INIT_ADMIN_TOKEN: qwertyuiopasdfghjklzxcvbnm
@@ -15,17 +15,17 @@ services:
 
   influxdb1:
     image: influxdb:1.8
-#   ports:
-#     - 8086:8086
+    ports:
+      - 9999:8086
 
   chronograf:
     image: chronograf
 #   environment:
-#     INFLUXDB_URL: http://influxdb1:8086
+#     INFLUXDB_URL: http://influxdb1:9999
     ports:
       - 8888:8888
 
-  grafana:
+grafana:
     image: grafana/grafana-enterprise
     ports:
       - 3000:3000
