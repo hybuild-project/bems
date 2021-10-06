@@ -19,15 +19,12 @@ services:
       - 9999:8086
 
 
-#
   chronograf:
     image: chronograf
 #   environment:
-#     INFLUXDB_URL: http://influxdb1:8086
+#     INFLUXDB_URL: http://influxdb1:9999
     ports:
       - 8888:8888
-#
-
 
 
   grafana:
