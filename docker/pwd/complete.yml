@@ -18,6 +18,18 @@ services:
     ports:
       - 9999:8086
 
+
+#
+  chronograf:
+    image: chronograf
+#   environment:
+#     INFLUXDB_URL: http://influxdb1:8086
+    ports:
+      - 8888:8888
+#
+
+
+
   grafana:
     image: grafana/grafana-enterprise
     ports:
