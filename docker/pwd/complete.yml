@@ -13,13 +13,13 @@ services:
     ports:
       - 8086:8086
 
-  influxdb1:
+  influxdb-v1:
     image: influxdb:1.8
 
   chronograf:
     image: chronograf
     environment:
-      INFLUXDB_URL: http://influxdb1:8086
+      INFLUXDB_URL: http://influxdb-v1:8086
     ports:
       - 8888:8888
 
