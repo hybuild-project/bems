@@ -2,7 +2,6 @@ version: "3.8"
 services:
   influxdb2:
     image: influxdb
-    container_name: influxdb2
     environment:
       DOCKER_INFLUXDB_INIT_MODE: setup
       DOCKER_INFLUXDB_INIT_USERNAME: admin
@@ -16,36 +15,30 @@ services:
 
   influxdb:
     image: influxdb:1.8
-    container_name: influxdb
     ports:
       - 8086:8086
 
   grafana:
     image: grafana/grafana-enterprise
-    container_name: grafana
     ports:
       - 3000:3000
 
   mqtt:
     image: eclipse-mosquitto:1.6
-    container_name: mqtt
     ports:
       - 1883:1883
 
   mongo:
     image: mongo
-    container_name: mongo
     ports:
       - 27017:27017
 
   mongo-express:
     image: mongo-express
-    container_name: mongo-express
     ports:
       - 8081:8081
 
   node-red:
     image: nodered/node-red
-    container_name: node-red
     ports:
       - 1880:1880
